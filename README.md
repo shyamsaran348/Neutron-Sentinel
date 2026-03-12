@@ -101,4 +101,4 @@ After SMOTE balancing, the models achieved the following performance on the full
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-**Developed with ❤️ by Shyam — Neutron Sentinel Project**
+**Developed with by Shyam and Sweatha — Neutron Sentinel Project**
