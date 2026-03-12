@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+env/
+.env
+
+# Data & Models
+data/raw/
+data/processed/*.csv
+data/processed/*.pkl
+data/processed/*.npy
+# Keep the small models for portable demo, ignore the raw large training data
+# data/
+
+# Node / Frontend
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.env
+dashboard/.vercel
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+logs/
+*.log
